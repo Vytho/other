@@ -1,8 +1,28 @@
 
-div {
+.div {
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
+    font-weight: bold;
+}
+
+.paragraph {
+    background-color: rgb(211, 69, 78);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#second {
+    font-size: 36px;
+    color: blue;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
     font-weight: bold;
 }
